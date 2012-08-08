@@ -8,7 +8,9 @@ Right now we have a very limited feature set, but we are working hard on extendi
 
 # Warning! This is under HEAVY development
 
-This project is at a very EARLY stage. However, if you want to jump in and help us out, you are more than welcome to do so.
+This project is at a very EARLY stage. However, if you want to jump in and help us out, you are more than welcome to do so. To get started clone this repository, do a `npm install`.
+
+Now you can run `npm test` and you should see green checkmarks! :)
 
 coffee-mess-detector is a test-driven project, so every functionality that currently exists should have a test case for it.
 
