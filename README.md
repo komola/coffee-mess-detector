@@ -1,6 +1,6 @@
 # What is this for?
 
-This project was inspired by the automatic code quality check tools in the ruby world, especially (Flog)[https://github.com/seattlerb/flog].
+This project was inspired by the automatic code quality check tools in the ruby world, especially [Flog](https://github.com/seattlerb/flog).
 
 We are taking a pretty similar approach and give scores for your code.
 
